@@ -100,9 +100,7 @@ body{
 .information-list{
     position: relative;
     background-color: #313131;
-    display: flex;
     list-style-type: none;
-    flex-direction: column;
 }
 
 .main{

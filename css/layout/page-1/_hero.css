@@ -27,7 +27,7 @@
 }
 
 .hero-navigation__link_after::after{
-    content: url(../../images/icons/down-arrow.svg);
+    content: url(//images/icons/down-arrow.svg);
     margin-left: .1rem;
 }
 
@@ -63,7 +63,7 @@
 }
 
 .hero-navigation__link_after::after{
-    content: url(../images/icons/down-arrow.svg);
+    content: url(./down-arrow.svg);
     margin-left: .1rem;
 }
 

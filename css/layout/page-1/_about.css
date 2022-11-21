@@ -1,6 +1,6 @@
 .column-box{
     display: flex;
-    flex-wrap:
+    flex-wrap: wrap;
 }
 
 .col-1{
