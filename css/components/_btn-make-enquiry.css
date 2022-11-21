@@ -1,0 +1,9 @@
+.btn-make-enquiry:link, .btn-make-enquiry:visited{
+    padding: 2.3rem 4.9rem;
+    border: 2px solid #098A5B;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 400;
+    color: #fff;
+    font-size: 1.5rem;
+}

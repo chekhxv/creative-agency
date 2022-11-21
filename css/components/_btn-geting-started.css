@@ -1,0 +1,12 @@
+.btn-geting-started:link, .btn-geting-started:visited{
+    border: .1rem solid #098A5B;
+    color: #098A5B;
+    padding: 2.8rem 2.2rem;
+    text-decoration: none;
+    font-size: 1.6rem;
+    font-weight: 700;
+    display: inline-block;
+    text-transform: uppercase;
+    transition: all 1s;
+}
+

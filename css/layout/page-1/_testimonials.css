@@ -1,0 +1,41 @@
+.testimonials-list{
+    padding: 5.4rem 0 4.4rem 0;
+    width: 33.1rem;
+    text-align: center;
+    list-style-type: none;
+    border: 1px solid #777777;
+}
+
+.testimonials-list__item{
+    position: relative;
+    text-align: center;
+}
+
+.list__img{
+    max-width: 5.8rem;
+}
+
+.list-symbols{
+    max-width: 6.8rem;
+    width: 100%;
+}
+
+.stars{
+    max-width: 13.6rem;
+    width: 100%;
+}
+
+.avatar{
+    max-width: 6.2rem;
+    width: 100%;
+}
+
+.li__item{
+    width: 100%;
+    max-width: 8.6rem;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%, 10%);
+}

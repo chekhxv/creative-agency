@@ -1,0 +1,7 @@
+.btn-read-more:link,.btn-read-more:visited{
+    border: .2rem solid #098A5B;
+    padding: 1.4rem 1.7rem;
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+}

@@ -1,0 +1,143 @@
+*::before, *::after{
+    box-sizing: border-box;
+}
+
+section, div, header{
+    box-sizing: border-box;
+}
+
+html{
+    zoom: 100%;
+    font-size: 62.5%;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Inter';
+    width: 100vw;
+    height: 100vh;
+    background-color: #101017;
+    color: #ffffff;
+}
+
+.container{
+    padding: 0 2rem;
+    max-width: 112.7rem;
+    width: 100vw;
+    margin: 0 auto;
+}
+
+.hero{
+    width: 100vw;
+    padding-top: 3rem;
+    background: url(../../images/background/header-bg.jpg) 0 0 / cover, no-repeat;
+}
+
+.navigation{
+    margin: 0 auto;
+    align-items: center;
+    max-width: 133.1rem;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo:link, .logo:visited{
+    font-size: 4rem;
+    font-weight: 700;
+    color: #fff;
+    line-height: 4.8rem;
+    text-decoration: none;
+}
+
+.hero-box{
+    padding-top: 12rem;
+}
+
+.flex-container{
+    display: inline-flex;
+    align-content: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.flex-container-1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-container-2{
+    align-content: flex-start;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.flex-container-3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-container-4{
+    display: flex;
+    justify-content: center;
+}
+
+.information-list{
+    position: relative;
+    background-color: #313131;
+    display: flex;
+    list-style-type: none;
+    flex-direction: column;
+}
+
+.main{
+    margin: 0 auto;
+    width: 100vw;
+}
+
+.services{
+    padding: 15.7rem 0 23.2rem 0;
+    width: 100vw;
+}
+
+.color-1{
+    color: #098A5B;
+}
+
+.about-us{
+    padding-top: 4.6rem;
+    padding-bottom: 26rem;
+}
+
+.testimonials{
+    padding: 6rem 0 32rem 0;
+    background-color: #313131;
+}
+
+.section-news{
+    padding-top: 8.8rem;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.any-project{
+    padding: 26rem 0 10.9rem 0;
+    text-align: center;
+}
+
+.footer{
+    width: 100%;
+    margin: 0 auto;
+    padding: 50rem 0 0 0;
+}
+
+.list{
+    list-style-type: none;
+}
+

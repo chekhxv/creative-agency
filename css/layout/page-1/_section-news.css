@@ -1,0 +1,22 @@
+.news{
+    border: 2px solid #098A5B;
+    margin-right: 2.3rem;
+    max-width: 46.3rem;
+    width: 100%;
+    padding-bottom: 2.4rem;
+}
+
+.image-news{
+    width: 100%;
+}
+
+.news-item{
+    width: 100%;
+    max-width: 41.2rem;
+    margin: 0 auto;
+    padding-left: 2rem;
+}
+
+.news-header{
+    text-align: center;
+}

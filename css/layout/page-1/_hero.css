@@ -1,0 +1,92 @@
+
+.list__item:nth-child(1){
+    border-bottom: .2rem solid #098A5B;
+}
+
+.list__item:nth-child(6){
+    padding: 1.7rem .8rem;
+    border: .1rem solid #098A5B;
+}
+
+.hero-navigation__list{
+    max-width: 82.3rem;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+}
+
+.hero-navigation__link:link, .hero-navigation__link:visited{
+    font-weight: 700;
+    transition: all .5s;
+    padding: 1.7rem .8rem;
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.6rem;
+}
+
+.hero-navigation__link_after::after{
+    content: url(../../images/icons/down-arrow.svg);
+    margin-left: .1rem;
+}
+
+.hero-navigation__link:hover{
+    color: #098A5B;
+}
+
+.list__item:nth-child(1){
+    border-bottom: .2rem solid #098A5B;
+}
+
+.list__item:nth-child(6){
+    padding: 1.7rem .8rem;
+    border: .1rem solid #098A5B;
+}
+
+.hero-navigation__list{
+    max-width: 82.3rem;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+}
+
+.hero-navigation__link:link, .hero-navigation__link:visited{
+    font-weight: 700;
+    transition: all .5s;
+    padding: 1.7rem .8rem;
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.6rem;
+}
+
+.hero-navigation__link_after::after{
+    content: url(../images/icons/down-arrow.svg);
+    margin-left: .1rem;
+}
+
+.hero-navigation__link:hover{
+    color: #098A5B;
+}
+
+.information-list:hover{
+    border: .2rem solid #098A5B;
+}
+
+.information-list_line{
+    border: .2rem solid #098A5B;
+}
+
+.information-list_line::after{
+    content: "";
+    width: .2rem;
+    height: 3.6rem;
+    left: 50%;
+    right: 50%;
+    bottom: 0;
+    transform: translate(-50%, 100%);
+    position: absolute;
+    background-color: #098A5B;
+}

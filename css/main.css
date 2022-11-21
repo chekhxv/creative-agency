@@ -1,0 +1,19 @@
+@import "components/_btn-geting-started.css";
+@import "components/_btn-make-enquiry.css";
+@import "components/_btn-read-more.css";
+@import "components/_btn.css";
+
+@import "base/_base.css";
+@import "base/_typography.css";
+@import "base/_utilists.css";
+
+@import "layout/page-1/_about.css";
+@import "layout/page-1/_hero.css";
+@import "layout/page-1/_our-works.css";
+@import "layout/page-1/_section-news.css";
+@import "layout/page-1/_testimonials.css";
+@import "layout/_footer.css";
+
+@import "layout/_media.css";
+
+
